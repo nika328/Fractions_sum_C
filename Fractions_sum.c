@@ -1,3 +1,4 @@
+// this program reads 2 fractions and outputs their sum in the simplified form
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
