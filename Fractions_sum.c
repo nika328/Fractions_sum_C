@@ -62,6 +62,7 @@ int main(void) {
   printf("\nThe simplified sum of these fraction is:\n");
   printf("%d/%d\n\n", ((d2*n1)+(d1*n2))/res, (d1*d2)/res);
   
+ 
   
   return 0;
 }
